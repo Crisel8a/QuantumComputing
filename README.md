@@ -43,6 +43,14 @@ Aquí construimos funciones que nos fueron de utilidad al resolver los ejercicio
 - Estados cuánticos
 - Transformada de Fourier cuántica 
 
+### ✅ Algoritmos
+
+Finalmente repasados dos algoritmos fundamentales que nos presentaron en el curso, todo con base a las herramientas y funciones estudiadas anteriormente. 
+
+
+- Algoritmo de búsqueda de Grover
+- Algoritmo de Shore para la factorización por números primos 
+
 
 <p align="center">
   <strong>Inicias sin saber cuántica, y terminas sin saber quién eres tu.</strong><br>
